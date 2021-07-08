@@ -4,7 +4,6 @@ public class Discussion {
     //first commit
     //second
     public static void main(String[] args) {
-        System.out.println("dasd");
-        //asdsad
+        System.out.println("asdsad");
     }
 }
